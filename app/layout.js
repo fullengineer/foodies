@@ -1,6 +1,6 @@
-import './globals.css';
-
 import MainHeader from '@/components/main-header';
+
+import './globals.css';
 
 export const metadata = {
   title: 'NextLevel Food',
